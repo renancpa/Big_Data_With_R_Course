@@ -16,7 +16,7 @@ vecChar = c("A","B","c")
 vecNum = c(1:3)
 vecBool = c(FALSE, TRUE, TRUE)
 df <- data.frame(vecChar, vecNum, vecBool)
-df
+
 # Exercício 3 - Considere o vetor abaixo. 
 # Crie um loop que verifique se há números maiores que 10 e imprima o número e uma mensagem no console.
 
